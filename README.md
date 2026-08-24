@@ -23,12 +23,12 @@ Tech Stack
 Screenshots
 
 1. [Starting the app](./Screenshots/1_starting_app.png)
-2. [Opening Teratiba](./screenshots/2_opening_Teratiba.png)
-3. [Desktop](./screenshots/3_desktop.png)
-4. [Teratiba tab](./screenshots/4_Teratiba_tab.png)
-5. [Bara folder](./screenshots/5_Bara_folder.png)
-6. [Bara opened](./screenshots/6_Bara_opened.png)
-7. [Bara insert tab](./screenshots/6_Bara_insert_tab.png)
+2. [Opening Teratiba](./Screenshots/2_opening_Teratiba.png)
+3. [Desktop](./Screenshots/3_desktop.png)
+4. [Teratiba tab](./Screenshots/4_Teratiba_tab.png)
+5. [Bara folder](./Screenshots/5_Bara_folder.png)
+6. [Bara opened](./Screenshots/6_Bara_opened.png)
+7. [Bara insert tab](./Screenshots/6_Bara_insert_tab.png)
 
 ---
 
