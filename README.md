@@ -22,22 +22,23 @@ Tech Stack
 
 Screenshots
 
-1. [Starting the app](./Screenshots/1 - starting app.png)
-2. [Registration](./screenshots/2_first_login_registration.jpg)
-3. [Main Menu](./screenshots/3_main_menu.jpg)
-4. [Enter Amount](./screenshots/4_amount_purchased.jpg)
-5. [Scan QR Code](./screenshots/5_scan_qr_code.jpg)
-6. [Success Screen](./screenshots/6_success_fuel_claim.jpg)
+1. [Starting the app](./Screenshots/1_starting_app.png)
+2. [Opening Teratiba](./screenshots/2_opening_Teratiba.png)
+3. [Desktop](./screenshots/3_desktop.png)
+4. [Teratiba tab](./screenshots/4_Teratiba_tab.png)
+5. [Bara folder](./screenshots/5_Bara_folder.png)
+6. [Bara opened](./screenshots/6_Bara_opened.png)
+7. [Bara insert tab](./screenshots/6_Bara_insert_tab.png)
 
 ---
 
 Problem It Solves
-- Many drivers face challenges in tracking fuel expenses and accessing consistent discounts. Fuel Fasta addresses this by digitizing fuel transactions and enabling drivers to benefit from structured discount systems, improving cost efficiency and operational sustainability.
+- New computers are targeting video content people who need huge storage and fast RAM to do the job well especially for live TV recordings. However computers were originally designed for much smaller tasks such as word processing notice how small office files are. That's why in the past floppy disks were a popular storage as video and high quality gaming were just emerging. Older machines were perfect for the office and now are more affordable in these times where interest is in intensive video and gaming content. A fresh operating system can help office's work fast paced with current technologies which is the main problem Teratiba goes to solve.  
 
 ---
 
 Status
-- Prototype – actively being improved and redeployed  
+- Development Stage – currently not being developed   
 
 ---
 
@@ -47,6 +48,5 @@ Author
 ---
 
 Future Improvements
-- Integration with real fuel station APIs  
-- Payment system integration  
-- Driver analytics dashboard
+- Networking Features and Internet  
+- Scalable Software's to allow companies such as Whats App to make desktop apps for Teratiba
