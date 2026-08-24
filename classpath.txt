@@ -1,0 +1,1 @@
+SET CLASSPATH=C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Users\hp\Documents\Ndelabosha\Teratiba;C:\Users\hp\Documents\Ndelabosha\Programs\Bara\Ono
