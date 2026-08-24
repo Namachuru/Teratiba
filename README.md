@@ -28,7 +28,7 @@ Screenshots
 4. [Teratiba tab](./Screenshots/4_Teratiba_tab.png)
 5. [Bara folder](./Screenshots/5_Bara_folder.png)
 6. [Bara opened](./Screenshots/6_Bara_opened.png)
-7. [Bara insert tab](./Screenshots/6_Bara_insert_tab.png)
+7. [Bara insert tab](./Screenshots/7_Bara_insert_tab.png)
 
 ---
 
